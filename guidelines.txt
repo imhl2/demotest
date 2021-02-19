@@ -1,8 +1,2 @@
 simple test
-add some text
-triple text
-destroy helloworld
 pear
-coke
-sprite
-7-UP
